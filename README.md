@@ -1,6 +1,6 @@
-# my_words
+# Currency Exchange
 
-A new Flutter project.
+ - This is an Application that can get currency exchange. The purpose of this demo is for education and no more.
 
 ## Getting Started
 
@@ -15,3 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # CurrencyExchange_ProviderDemo
+## Dependencies
+ - Provider pattern
+ - API data from https://exchangeratesapi.io/
+ - Dependency injection with Get_it
+ - Local service with SharedPreference
+ ## Reference
+ - https://www.raywenderlich.com/6373413-state-management-with-provider
+Thank you!
